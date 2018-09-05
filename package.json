@@ -53,7 +53,8 @@
     "svgstore": "^2.0.3",
     "tui-jsdoc-template": "^1.0.4",
     "webpack": "^1.13.3",
-    "webpack-dev-server": "^1.11.0"
+    "webpack-dev-server": "^1.11.0",
+    "fabric": "@~1.6.7"
   },
   "scripts": {
     "test": "karma start --no-single-run",
